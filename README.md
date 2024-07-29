@@ -3,8 +3,6 @@ A simple notification system that allows a User to click 1 of three buttons, and
 
 How to run the application
 
-Frontend 
-Need to install Node Modules by npm i and start the frontend application using npm start.
+Frontend : Need to install Node Modules by npm i and start the frontend application using npm start.
 
-Frontend 
-Need to install Node Modules by npm i and start the frontend application using npm start.
+Backend : Need to install Node Modules by npm i and start the frontend application using npm start.
