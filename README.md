@@ -3,6 +3,21 @@ A simple notification system that allows a User to click 1 of three buttons, and
 
 How to run the application
 
-Frontend : Need to install Node Modules by npm i and start the frontend application using npm start.
+Frontend : To run the frontend application, please follow the below commands
+PORT : 3000
 
-Backend : Need to install Node Modules by npm i and start the frontend application using npm start.
+```
+cd frontend 
+npm i
+npm start
+```
+
+
+Backend : To run the backend application, please follow the below commands
+PORT : 3003
+
+```
+cd backend 
+npm i
+npm start
+```
